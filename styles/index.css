@@ -4,8 +4,8 @@
   --color-background: #111111;
   --color-card: #1c1c1c;
   --color-text: #ffffff;
-  --font-body: "Open Sans", Arial, sans-serif;
-  --font-heading: "Archivo Black", "Arial Black", Arial, sans-serif;
+  --font-body: "Inter", Arial, sans-serif;
+  --font-heading: "Noto Serif", Georgia, serif;
   --page-padding: 120px;
   --glow-top-x: calc(50% + 363px);
   --glow-top-y: 390px;
@@ -87,6 +87,7 @@ a:focus-visible {
   font-family: var(--font-heading);
   font-size: 40px;
   font-weight: 400;
+  font-style: italic;
   line-height: 1.1;
 }
 
@@ -113,6 +114,7 @@ a:focus-visible {
   font-family: var(--font-heading);
   font-size: 72px;
   font-weight: 400;
+  font-style: italic;
   line-height: 1.1;
 }
 
