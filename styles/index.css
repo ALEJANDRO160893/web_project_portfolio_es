@@ -18,7 +18,7 @@
 
 .page {
   margin: 0;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.4;
@@ -81,7 +81,7 @@ a:focus-visible {
 }
 
 .section-title {
-  font-family: "Archivo Black", Arial, sans-serif;
+  font-family: "Noto Serif", Georgia, serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 1.1;
@@ -107,7 +107,7 @@ a:focus-visible {
 
 .profile__name {
   max-width: 600px;
-  font-family: "Archivo Black", Arial, sans-serif;
+  font-family: "Noto Serif", Georgia, serif;
   font-size: 72px;
   font-weight: 400;
   line-height: 1.1;
