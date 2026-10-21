@@ -11,7 +11,6 @@
   --glow-top-y: 390px;
 }
 
-/* Base */
 
 *,
 *::before,
@@ -74,7 +73,7 @@ a:focus-visible {
   outline-offset: 4px;
 }
 
-/* Layout */
+
 
 .content,
 .footer {
@@ -91,7 +90,7 @@ a:focus-visible {
   line-height: 1.1;
 }
 
-/* Profile */
+
 
 .profile {
   display: flex;
@@ -151,7 +150,7 @@ a:focus-visible {
   object-fit: cover;
 }
 
-/* Skills */
+
 
 .skills {
   margin-top: 100px;
@@ -172,7 +171,7 @@ a:focus-visible {
   object-fit: contain;
 }
 
-/* Projects */
+
 
 .projects {
   margin-top: 100px;
@@ -278,7 +277,7 @@ a:focus-visible {
   background-image: url("../images/github-small.svg");
 }
 
-/* Footer */
+
 
 .footer {
   display: flex;
@@ -304,7 +303,7 @@ a:focus-visible {
   height: 24px;
 }
 
-/* Tablet */
+
 
 @media (max-width: 1023px) {
   :root {
@@ -358,7 +357,7 @@ a:focus-visible {
   }
 }
 
-/* Mobile */
+
 
 @media (max-width: 767px) {
   :root {
