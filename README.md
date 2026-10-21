@@ -28,7 +28,7 @@ Sitio web de portafolio personal de una desarrolladora Full-Stack Junior, creado
 
 ```
 ├── index.html
+├── fonts/      Inter y Noto Serif (.woff2 / .woff)
 ├── images/     Fotografías e iconos SVG
-├── styles/     index.css
-└── vendor/     normalize.css, fonts.css y fonts/ (Inter y Noto Serif, .woff2 / .woff)
+└── styles/     normalize.css, fonts.css e index.css
 ```
